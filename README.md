@@ -10,4 +10,4 @@ A simple web scraper built with .NET and HtmlAgilityPack.
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/WebScraper.git
+   git clone https://github.com/Azosk/WebScraper.git
