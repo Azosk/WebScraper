@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CrVLjT87z20=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thomas\\repos\\WebScraper\\WebScraperSolution\\WebScraperLib\\WebScraperLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thomas\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
+  "logs": []
+}
